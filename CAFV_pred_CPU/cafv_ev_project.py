@@ -10,7 +10,7 @@ import numpy as np
 import ipywidgets as widgets
 from IPython.display import display, HTML, clear_output
 
-file_path = "/content/Data.csv"
+file_path = "Electric_Vehicle_Population_Data.csv"
 df = pd.read_csv(file_path)
 
 def load_and_clean_data(file_path):

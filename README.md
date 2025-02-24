@@ -56,9 +56,3 @@ The project demonstrates significant improvements in computational speed and acc
 ## Contributing
 Contributions are welcome! Please fork the repository, create a new branch, and submit a pull request.
 
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Contact
-For inquiries, please reach out to [Your Email] or open an issue on GitHub.
-

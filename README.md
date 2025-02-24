@@ -46,7 +46,7 @@ python src/evaluate.py
 ```
 
 ## Results
-The project demonstrates significant improvements in computational speed and accuracy when using accelerated computing for EV prediction. Detailed results and performance metrics can be found in the `docs/` folder.
+The project demonstrates significant improvements in computational speed and accuracy when using accelerated computing for EV prediction.
 
 ## References
 - Goodfellow, I., Bengio, Y., & Courville, A. (2016). *Deep Learning.* MIT Press.

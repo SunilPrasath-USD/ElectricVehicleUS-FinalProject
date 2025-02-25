@@ -5,8 +5,8 @@ This project focuses on predicting Clean Alternative Fuel Vehicle (CAFV) adoptio
 
 ## Features
 - **Data Collection:** EV registrations, charging station availability, and market trends.
-- **Machine Learning Models:** LSTMs, Transformers, and Time Series Regression.
-- **Accelerated Computing:** Uses GPUs and TPUs for optimized processing.
+- **Machine Learning Models:** Linear Regression
+- **Accelerated Computing:** Uses GPUs for optimized processing.
 - **Comparative Analysis:** Evaluates the efficiency of traditional vs. accelerated computing approaches.
 
 ## Repository Structure
